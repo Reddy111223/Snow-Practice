@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="SNOW HUB Audience">268ffb5d93d8b210aeb7f0b9dd03d676</applicability>
+        <list display_value="Closed">2e8ffb5d93d8b210aeb7f0b9dd03d692</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-29 19:05:43</sys_created_on>
+        <sys_id>6a8ffb5d93d8b210aeb7f0b9dd03d694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SNOW HUB" source="x_1797229_snow_hub">558fbb5d93d8b210aeb7f0b9dd03d645</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW HUB">558fbb5d93d8b210aeb7f0b9dd03d645</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_6a8ffb5d93d8b210aeb7f0b9dd03d694</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-29 19:05:43</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
