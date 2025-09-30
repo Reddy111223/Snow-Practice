@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="e98fbb5d93d8b210aeb7f0b9dd03d65e" extends="sn_creatorstudio_task" label="SNOW HUB Request" max_length="40" name="x_1797229_snow_hub_request" type="collection"/>
+</database>

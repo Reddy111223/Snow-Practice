@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Creator Studio" source="sn_creatorstudio">81ac5fe1c7442110408bc8d6f2c260d1</dependency>
+        <min_version>25.1.2</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-29 19:05:39</sys_created_on>
+        <sys_id>7d8fbb5d93d8b210aeb7f0b9dd03d69b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_package display_value="SNOW HUB" source="x_1797229_snow_hub">558fbb5d93d8b210aeb7f0b9dd03d645</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-29 19:05:45</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
